@@ -130,7 +130,7 @@
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Id": "2cb4a308-41cd-4f68-bc33-0dc087fab89f",
       "Name": "Induction",
       "Image": "",
       "TechnologyId": "",
@@ -147,6 +147,15 @@
           "SubCategories": []
         }
       ]
+    }
+    {
+      "Id": "fb7abd5c-3b5e-410e-93fe-8bb86f4a21a3",
+      "Name": "People And Culture",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": []
     }
   ],
   "Audiences": [
